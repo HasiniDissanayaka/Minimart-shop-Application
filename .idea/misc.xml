@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_addp.xml" value="0.3630769230769231" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_arrowfo.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_card.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_pword.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_regi.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_save.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-anydpi/ic_action_search.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-hdpi/round_rectangle.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/animator_check.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/animator_circle.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/ic_check_mark_vector.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/ic_circle_vector.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/ic_delete_black.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-v24/round_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable-xhdpi/ic_exit_to_app_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/bg_logout.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/bg_round.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/call.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/capsule.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/custom_button.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_home_black.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_orders_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/ic_power_settings_new_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/line.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/line_drawable.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/nav_item_color_state.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/drawable/profile_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/font/aclonica.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_american_foods.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_book_my_order.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_cal.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_cart_preview.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_chinese_foods.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_foods_1.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_foods_5.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_foods_6.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_home_dash_board.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_indian_foods.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_italian_foods.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_japanese_foods.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_login.xml" value="0.36367753623188404" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_mainmenu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_mexican_foods.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofaddloyalcard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofcal.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofcontact.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofeditpro.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_oflocation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofloyalty.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofmenu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofmoredatails1.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofmoredatilsmanual.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofmoredetail.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_ofmoreqrsc.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_onmenu.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_order_confirmation_page.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_profile.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_profile_toggle.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_reset_password.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_shipping_details.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_signpage.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_signup.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_splash.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/activity_welpage.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/cart_view.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/forgetpg.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/layout_catalog_back.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/loadpg.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/logout.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/menu_cartcount.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/onlinewel.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/sure.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/toolbar.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/layout/view_database_layout.xml" value="0.2015625" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/minimart editable/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
+    <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="5" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="7" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="2" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="5" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

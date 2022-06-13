@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookMyOrder">
+
+    <include
+        layout="@layout/app_bar_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <com.braintreepayments.cardform.view.CardForm
+        android:id="@+id/card_form"
+        android:paddingTop="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <LinearLayout
+        android:id="@+id/buynow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        android:layout_weight=".2">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="PAY NOW "
+            android:textColor="#fff"
+            android:gravity="right|center_vertical"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="15dp"/>
+
+        <TextView
+            android:padding="15dp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/shipping_total_cart"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="$0"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:gravity="left|center_vertical"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"/>
+    </LinearLayout>
+
+   <!-- <Button
+    android:id="@+id/buynow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Pay Now"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginRight="40dp"
+    android:layout_marginTop="10dp"
+    android:textColor="@android:color/white"
+    android:background="@color/colorPrimary"
+    />-->
+</RelativeLayout>
